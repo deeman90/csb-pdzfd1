@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "https://deeman90.github.io/csb-pdzfd1/static/css/main.f03c56c2.chunk.css",
+    "main.js": "https://deeman90.github.io/csb-pdzfd1/static/js/main.c307fd2f.chunk.js",
+    "main.js.map": "https://deeman90.github.io/csb-pdzfd1/static/js/main.c307fd2f.chunk.js.map",
+    "runtime-main.js": "https://deeman90.github.io/csb-pdzfd1/static/js/runtime-main.c3e950df.js",
+    "runtime-main.js.map": "https://deeman90.github.io/csb-pdzfd1/static/js/runtime-main.c3e950df.js.map",
+    "static/css/2.3661fc73.chunk.css": "https://deeman90.github.io/csb-pdzfd1/static/css/2.3661fc73.chunk.css",
+    "static/js/2.c16c6fba.chunk.js": "https://deeman90.github.io/csb-pdzfd1/static/js/2.c16c6fba.chunk.js",
+    "static/js/2.c16c6fba.chunk.js.map": "https://deeman90.github.io/csb-pdzfd1/static/js/2.c16c6fba.chunk.js.map",
+    "index.html": "https://deeman90.github.io/csb-pdzfd1/index.html",
+    "precache-manifest.4f9c74385ea084aa5901a389578502d4.js": "https://deeman90.github.io/csb-pdzfd1/precache-manifest.4f9c74385ea084aa5901a389578502d4.js",
+    "service-worker.js": "https://deeman90.github.io/csb-pdzfd1/service-worker.js",
+    "static/css/2.3661fc73.chunk.css.map": "https://deeman90.github.io/csb-pdzfd1/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.f03c56c2.chunk.css.map": "https://deeman90.github.io/csb-pdzfd1/static/css/main.f03c56c2.chunk.css.map",
+    "static/media/aboutBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/aboutBcg.7709c10e.jpeg",
+    "static/media/contactBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/contactBcg.945afb99.jpeg",
+    "static/media/defaultBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/defaultBcg.0819a816.jpeg",
+    "static/media/logo.svg": "https://deeman90.github.io/csb-pdzfd1/static/media/logo.6f19757f.svg",
+    "static/media/mainBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/mainBcg.984874d1.jpeg",
+    "static/media/productsBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/productsBcg.160fddff.jpeg",
+    "static/media/singleProductBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/singleProductBcg.96758412.jpeg",
+    "static/media/storeBcg.jpeg": "https://deeman90.github.io/csb-pdzfd1/static/media/storeBcg.46143c2f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e950df.js",
+    "static/css/2.3661fc73.chunk.css",
+    "static/js/2.c16c6fba.chunk.js",
+    "static/css/main.f03c56c2.chunk.css",
+    "static/js/main.c307fd2f.chunk.js"
+  ]
+}
